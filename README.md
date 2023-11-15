@@ -1,5 +1,6 @@
 # school-cs.100-final-project
 The very first school project in done in Python.
+
 ## Description
 Stand alone application of the game "Hangman", done alone.
 Instructions for the game found in main.py
