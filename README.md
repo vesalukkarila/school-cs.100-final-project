@@ -2,7 +2,7 @@
 The very first school project done in Python.
 
 ## Description
-Stand alone application of the game "Hangman", done alone.
+Implementation of the game "Hangman", individual project.
 Instructions for the game found in main.py
 Version control was not yet used in this first programming course.
 
