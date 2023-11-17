@@ -7,8 +7,7 @@ Run locally
 python3 main.py
 ```
 ### Description
-Implementation of the game "Hangman", individual project.
-Instructions for the game found in main.py
+Implementation of the game "Hangman". 
 Version control was not yet used in this first programming course.
 
 ### Learning goals
