@@ -1,5 +1,5 @@
 # school-cs.100-final-project
-The very first school project done in Python.
+Programming course 1, individual project, autumn -21.
 
 ## Description
 Implementation of the game "Hangman", individual project.
