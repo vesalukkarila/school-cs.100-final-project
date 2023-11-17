@@ -1,16 +1,15 @@
 # school-cs.100-final-project
 Programming course 1, individual project, autumn -21.
+Implementation of the game "Hangman". 
+Version control was not yet used in this first programming course.
 
 ## Usage
 Run locally
 ```sh
 python3 main.py
 ```
-### Description
-Implementation of the game "Hangman". 
-Version control was not yet used in this first programming course.
 
-### Learning goals
+## Learning goals
 Creating GUI with Tkinter.  
 Programming basics:
   - Comments
