@@ -1,7 +1,8 @@
 # school-project.comp.cs.100
-Programming course 1, individual project, autumn -21.
-Implementation of the game "Hangman". 
-Version control was not yet used in this first programming course.
+- Programming course 1, individual project, autumn -21.
+- Implementation of the game "Hangman". 
+- Version control was not yet used in this first programming course.
+- Overall grade for the course: 5
 
 ## Usage
 Run locally
